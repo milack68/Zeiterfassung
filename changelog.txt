@@ -1,0 +1,25 @@
+/********************************************************************************
+* SmallTime - Changelog
+/********************************************************************************
+V 0.9.001 28.10.2016 -> Ferien nur bis heute in den Settings eingestellt, BUG in der Anzeige
+V 0.9.002 28.10.2016 -> user04_year.php -> Yahr - Anzeige kann bei alten gewählten Monaten falsch dargestellt werden
+V 0.9.004 01.12.2016 -> Neues Admin Menue:  PDF (anzeigen und erstellen von PDF)
+V 0.9.005 01.12.2016 -> Ferienberechnung bei PDF Erstellung und Anzeige von alten Monaten korrgiert
+V 0.9.006 01.12.2016 -> Mehrbenutzerlogin bei falschen sowie korrekten Eingaben, erscheint nun eine Meldung
+V 0.9.007 01.12.2016 -> Log - Üersicht bei Status von User und Admin BUG - FIX
+V 0.9.008 06.12.2016 -> Automatische Pausen - mehrere Pausenregelungen sind nun einstellbar
+V 0.9.009 06.12.2016 -> Berechtigungen auf ZIP und PDF überarbeitet -> nur noch über download.php abrufbar
+V 0.9.010 06.12.2016 -> diverse Sicherheits - Bugfix sowie .htaccess - Dateierstellungen
+V 0.9.011 07.12.2016 -> kleine Bug - Korrekturen
+V 0.9.011 09.12.2016 -> kleine Bug - Korrekturen -> admins dürfen alle PDF und ZIP downloaden / ZIP - Download ging nicht
+V 0.9.012 15.12.2016 -> Bug - Ferienberechnung (Zukunft oder nur bis Heute) wenn Ferien berechnete Werte im Monat sind
+V 0.9.012 15.12.2016 -> Bug - download als Admin mit Fehlermeldung bei unzureichender Berechtigung
+V 0.9.013 28.12.2016 -> Zeitenumrechnung von Minuten und Sekunden in Dezimal, korrigiert (kleine Fehler - Korrektur im Hundertstel)
+V 0.9.014 25.01.2017 -> Bug: Mitarbeiter konnten keine PDF ansehen
+V 0.9.015 24.02.2017 -> Beispiel für ein Touchscreen - Stempel - Terminal
+V 0.9.016 30.03.2017 -> Fehler bei der Jahresansicht / Fehler bei der Bildanzeige mit htaccess / Settings - Einstellungen - Abwesenheitsberechnungen
+V 0.9.017 30.11.2017 -> Fehler bei User - Bildern in der .htaccess Datei
+V 0.9.018 14.12.2017 -> Fehler in der Berechnung der Pausenregelung bei Eingaben z.B. 9.25
+V 0.9.019 28.12.2017 -> Fehler in der Auszahlungs - Berechnung - Jahresübersicht
+V 0.9.020 03.03.2017 -> Fehler beim terminal.php - diverse Fehler abgefangen
+V 0.9.021 08.03.2017 -> Fehler im Template
